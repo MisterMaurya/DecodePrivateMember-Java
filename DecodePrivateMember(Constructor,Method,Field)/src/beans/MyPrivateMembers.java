@@ -11,7 +11,7 @@ public class MyPrivateMembers {
 		System.out.println("no-args private constructor");
 	}
 
-	// private constructor
+	// private method
 	private void noArgsMethod() {
 		System.out.println("no-args method");
 	}
